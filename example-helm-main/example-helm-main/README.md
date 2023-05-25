@@ -2,7 +2,7 @@
 
 Ahoy world!  I'm a Helm repository for example charts.
 
-## Get started
+## Get started with the tasks
 
 Add this repository to Helm.
 
